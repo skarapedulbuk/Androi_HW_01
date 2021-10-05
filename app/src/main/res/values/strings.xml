@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Homework 01</string>
-    <string name="some_text">Some text</string>
+    <string name="button_text">Задание 2</string>
+    <string name="some_text">Нажмите на кнопку, что бы открыть второй layout (activity optional) с EditView-шками из второго задания</string>
+    <string name="checkbox_text">Мне уже есть 18 лет</string>
+    <string name="switch_text">Режим администратора</string>
+    <string name="copyable_text">Этот текст можно скопировать</string>
 </resources>
